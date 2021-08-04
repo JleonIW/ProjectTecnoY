@@ -1,2 +1,2 @@
-# ProjectTecnoY
+# TECNOY
 Created with CodeSandbox
