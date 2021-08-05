@@ -425,9 +425,13 @@ footer {
   .colab {
     position: absolute;
     width: 100%;
-    display: flexbox;
+    display: flex;
+    align-items: center;
     justify-content: center;
-    align-content: center;
+    flex-direction: column;
+    text-align: center;
     margin: auto;
+    margin-right: 50%;
+    margin-left: 50%;
   }
 }
