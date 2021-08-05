@@ -421,4 +421,12 @@ footer {
   .titulo-final {
     font-size: 20px;
   }
+
+  .colab {
+    position: absolute;
+    display: flexbox;
+    justify-content: center;
+    align-content: center;
+    margin: auto;
+  }
 }
