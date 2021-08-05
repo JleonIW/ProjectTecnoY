@@ -424,6 +424,7 @@ footer {
 
   .colab {
     position: absolute;
+    width: 100%;
     display: flexbox;
     justify-content: center;
     align-content: center;
